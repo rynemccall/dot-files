@@ -1,0 +1,10 @@
+[ui]
+username = Ryne McCall <rnmccall@gmail.com>
+
+[extensions]
+fetch=
+color=
+mq=
+rebase=
+transplant=
+graphlog=
