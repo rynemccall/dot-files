@@ -1,9 +1,11 @@
 [user]
 	name = Ryne McCall
-	email = ryne.mccall@gmail.com
+	email = ryne@rynemccall.com
 [diff]
 	color = auto
 [core]
 	editor = vim
 [alias]
         lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[push]
+	default = simple

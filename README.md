@@ -1,11 +1,6 @@
 # dot-files
-Configuration files and scripts to create a standardized environment.
+Configuration files for a standardized environment.
 
-## Setup
-Creating the standardized environment *should* be as easy as running one of the two commands below.
+## use
 
-### Via curl
-    curl -L https://raw.github.com/rynemccall/dot-files/master/install.sh | sh
-
-### Via wget
-    wget --no-check-certificate https://raw.github.com/rynemccall/dot-files/master/install.sh -O - | sh
+Use [homeshick](https://github.com/andsens/homeshick) to clone this repo and symlink the configuration files.

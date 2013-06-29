@@ -1,5 +1,5 @@
 [ui]
-username = Ryne McCall <ryne.mccall@gmail.com>
+username = Ryne McCall <ryne@rynemccall.com>
 
 [extensions]
 fetch=
@@ -8,3 +8,4 @@ mq=
 rebase=
 transplant=
 graphlog=
+purge=
