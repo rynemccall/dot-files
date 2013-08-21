@@ -1,6 +1,8 @@
 # dot-files
+
 Configuration files for a standardized environment.
 
 ## use
 
-Use [homeshick](https://github.com/andsens/homeshick) to clone this repo and symlink the configuration files.
+Install [homeshick](https://github.com/andsens/homeshick)
+Clone and symlink this repo with: `~/.homesick/repos/homeshick/home/.homeshick clone rynemccall/dot-files`
