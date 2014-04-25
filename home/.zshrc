@@ -47,16 +47,3 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 export PATH=$PATH:/bin/:/sbin/:/usr/bin/:/usr/sbin/
-
-# Mac Ports
-export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
-
-# npm
-export PATH="/usr/local/share/npm/bin/:$PATH"
-
-# homebrew
-export PATH="/usr/local/bin:$PATH"
-
-# rbenv
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
