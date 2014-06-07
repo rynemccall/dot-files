@@ -12,3 +12,5 @@
 (package-initialize)
 
 (global-nlinum-mode)
+
+(column-number-mode)
