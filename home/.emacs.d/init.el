@@ -12,3 +12,7 @@
 (package-initialize)
 
 (global-nlinum-mode)
+
+(column-number-mode)
+
+(setq require-final-newline t)
