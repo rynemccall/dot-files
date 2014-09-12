@@ -9,3 +9,32 @@ rebase=
 transplant=
 graphlog=
 purge=
+convert=
+histedit=
+record=
+
+[alias]
+blame = blame --user --changeset --date -q
+
+slog = log --template '{node|short} {author|user} {desc|firstline}\n'
+
+# find the changesets in one branch that aren't in another
+blog = log -r "ancestors($1) and not ancestors($2)"
+
+lg = log --template '* {desc|strip|firstline|fill76} [{node|short}|{branch}|{author|person}]\n'
+
+# from mq's parent to cwd
+qawstatus = status --rev qparent
+qawdiff = diff --rev qparent
+
+# from mq's parent to last item on queue
+qastatus = status --rev qparent:qtip
+qadiff = diff --rev qparent:qtip
+
+# from last item on mq's parent to cwd
+qwstatus = status --rev qtip~1
+qwdiff = diff --rev qtip~1
+
+# from last item on mq's parent to last item
+qstatus = status --rev qtip~1:.
+qdiff = diff --rev qtip~1:.
