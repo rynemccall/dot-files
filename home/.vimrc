@@ -8,7 +8,6 @@ Plugin 'gmarik/Vundle.vim'
 
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'elzr/vim-json'
-Plugin 'plasticboy/vim-markdown'
 Plugin 'altercation/vim-colors-solarized'
 
 call vundle#end()
