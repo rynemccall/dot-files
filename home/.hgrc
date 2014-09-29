@@ -1,5 +1,6 @@
 [ui]
 username = Ryne McCall <ryne@rynemccall.com>
+merge = internal:merge
 
 [extensions]
 fetch=
