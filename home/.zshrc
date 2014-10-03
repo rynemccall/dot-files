@@ -10,3 +10,6 @@ zstyle :compinstall filename "$HOME/.zshrc"
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+
+HISTSIZE=10000
+SAVEHIST=10000
