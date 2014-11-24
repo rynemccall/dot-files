@@ -1,0 +1,2 @@
+rm -f $HOME/.xsession-errors
+ln -s /dev/null $HOME/.xsession-errors
