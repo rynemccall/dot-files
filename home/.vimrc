@@ -20,6 +20,7 @@ set sw=4
 set expandtab
 
 autocmd FileType ruby setl ts=2 sw=2
+autocmd FileType *.sls setl ts=2 sw=2
 
 set number
 set hlsearch
