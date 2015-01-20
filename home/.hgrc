@@ -1,6 +1,7 @@
 [ui]
 username = Ryne McCall <ryne@rynemccall.com>
 merge = internal:merge
+editor = vim
 
 [extensions]
 fetch=
