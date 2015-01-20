@@ -24,7 +24,6 @@ autocmd FileType *.sls setl ts=2 sw=2
 
 set number
 set hlsearch
-set tags=TAGS;
 
 set background=dark
 let g:solarized_termcolors=256
