@@ -12,6 +12,8 @@ Configuration files for a standardized environment.
 * Add menu item to lock screen
 * Install Xcode
 * Install Atom
+* brew install python
+* brew install macvim
 
 #### iTerm2
 * Download and install iTerm2
