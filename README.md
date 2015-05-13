@@ -34,3 +34,5 @@ Configuration files for a standardized environment.
 * Clone and symlink this repo with: `homeshick clone rynemccall/dot-files`
 * Install [Vundle](https://github.com/gmarik/Vundle.vim)
 * Install [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+* pip install mercurial==3.1.2
+* Install [git-remote-hg](https://github.com/felipec/git-remote-hg)
