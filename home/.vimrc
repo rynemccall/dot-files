@@ -25,6 +25,6 @@ autocmd FileType *.sls setl ts=2 sw=2
 set number
 set hlsearch
 
-set background=dark
+set background=light
 let g:solarized_termcolors=256
 colorscheme solarized
