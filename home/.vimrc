@@ -10,6 +10,10 @@ Plugin 'Valloric/YouCompleteMe'
 Plugin 'elzr/vim-json'
 Plugin 'altercation/vim-colors-solarized'
 
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
+let g:vim_markdown_folding_disabled=1
+
 call vundle#end()
 filetype plugin indent on
 
