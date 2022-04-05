@@ -14,6 +14,10 @@ Configuration files for a standardized environment.
 * Install Atom
 * brew install python
 * brew install macvim
+* Install https://karabiner-elements.pqrs.org/
+  * Caplocks to Hyper/Escape
+  * Hyper Navigation
+  * Hyper Functional Number Keys
 
 #### iTerm2
 * Download and install iTerm2
